@@ -6,7 +6,7 @@ import "github.com/facebookincubator/ent"
 type Ambulance struct {
 	ent.Schema
 }
-
+//this is homework
 // Fields of the Ambulance.
 func (Ambulance) Fields() []ent.Field {
 	return nil
